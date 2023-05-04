@@ -1,0 +1,97 @@
+[
+    {
+      "recipeId": 111111,
+      "recipeName": "Butter Chicken",
+      "cuisine": "Indian",
+      "ingredients": "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces, 1 cup plain Greek yogurt, 1/2 cup unsalted butter, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 1 tbsp garam masala, 1 tsp cumin, 1 tsp turmeric, 1/2 tsp cayenne pepper, 1 cup tomato sauce, 1/2 cup heavy cream, salt and pepper to taste.",
+  
+      "instructions": "In a large bowl, mix the chicken and Greek yogurt together until the chicken is fully coated. Let it marinate in the refrigerator for at least 1 hour. In a large skillet over medium-high heat, melt the butter. Add the onion and cook until translucent, about 5 minutes. Add the garlic and ginger to the skillet and cook for another minute. Add the garam masala, cumin, turmeric, and cayenne pepper to the skillet and cook for another minute. Add the chicken and yogurt mixture to the skillet and cook until the chicken is cooked through, about 10 minutes. Add the tomato sauce and heavy cream to the skillet and stir until fully combined. Season with salt and pepper to taste. Serve hot with rice and naan.",
+
+      "imageURL": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+
+      "chefId": "1111"
+    },
+
+   {
+    "recipeId": 222222,
+      "recipeName": "Samosas",
+      "cuisine": "Indian",
+      "ingredients": "2 cups all-purpose flour, 1/2 tsp salt, 1/2 tsp baking powder, 1/2 cup vegetable oil, 1/4 cup water, 1 onion, chopped, 2 cloves garlic, minced, 1 tsp grated ginger, 1/2 tsp cumin, 1/2 tsp coriander, 1/4 tsp turmeric, 1/4 tsp cayenne pepper, 2 cups mashed potatoes, 1/2 cup frozen peas, Vegetable oil for frying",
+      "instructions": "In a large mixing bowl, whisk together the flour, salt, and baking powder. Add the vegetable oil and mix until the mixture is crumbly. Add the water to the mixture and knead the dough until it becomes smooth. Cover with a damp cloth and let it rest for 30 minutes. In a large skillet over medium-high heat, sauté the onion, garlic, and ginger until the onion is translucent, about 5 minutes.Add the cumin, coriander, turmeric, and cayenne pepper to the skillet and cook for another minute.Add the mashed potatoes and peas to the skillet and stir until fully combined. Season with salt to taste.Divide the dough into 12 equal portions and roll each one into a circle. Cut the circle in half.  Form each half into a cone and fill it with the potato and pea mixture. Seal the edges with water.Heat the vegetable oil in a large pot over medium-high heat. Fry the samosas in the oil until they are golden brown and crispy.",
+      
+      "imageURL": "https://www.cookwithnabeela.com/wp-content/uploads/2023/03/AlooSamosa2.webp",
+
+      "chefId": "1111"
+    },
+    {
+        "recipeId": 333333,
+        "recipeName": "Chocolate Chip Cookies",
+        "ingredients": "2 1/4 cups all-purpose flour, 1 tsp baking soda, 1 tsp salt, 1 cup unsalted butter, room temperature, 3/4 cup white sugar, 3/4 cup brown sugar, 2 large eggs, 2 tsp vanilla extract, 2 cups semisweet chocolate chips",
+        "instructions": "Mix ingredients together, form dough into balls, and bake at 375°F for 10-12 minutes.",
+        "imageURL": "https://eadn-wc04-6301438.nxedge.io/cdn/media/mageplaza/blog/post/c/h/choc_chip_cookies.jpg",
+        "chefId": "2222"
+      },
+      {
+        "recipeId": 444444,
+        "recipeName": "Caesar Salad",
+        "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
+        "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
+        "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
+        "chefId": "3333"
+      },
+      {
+        "recipeId": 555555,
+        "recipeName": "Paneer Tikka Masala",
+        "ingredients":"1 cup paneer, cubed, 1 onion, diced, 1 green bell pepper, diced, 1 cup tomato puree, 1/2 cup heavy cream, 1 tsp ginger paste, 1 tsp garlic paste, 2 tsp garam masala, 1 tsp turmeric powder, 1 tsp cumin powder, Salt to taste, 2 tbsp oil",
+        "instructions": 
+          "In a large skillet over medium-high heat, add the oil and sauté the onions and green bell peppers until softened. Add the ginger paste and garlic paste to the skillet and cook for another minute. Add the tomato puree, garam masala, turmeric powder, cumin powder, and salt to the skillet. Cook for 5-7 minutes until the mixture thickens. Add the cubed paneer to the skillet and stir gently to coat the paneer with the sauce. Reduce the heat to low and add the heavy cream. Cook for another 5-7 minutes until the paneer is heated through and the sauce has thickened.Garnish with chopped cilantro and serve hot with rice or naan bread.",
+
+        "imageURL": "https://cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg",
+        "chefId": "4444"
+      },
+      {
+        "recipeId": 666666,
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients":"1 lb ground beef, 1 onion, diced, 2 cloves garlic, minced, 1 can crushed tomatoes, 1 tsp dried basil, 1 tsp dried oregano, 1 tsp salt, 1/2 tsp black pepper, 1 lb spaghetti, 2 tbsp olive oil",
+
+        "instructions": "Cook spaghetti according to package instructions. Brown ground beef in olive oil. Add onion and garlic, and cook until onion is translucent. Add crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 20 minutes. Serve over cooked spaghetti.",
+
+        "imageURL": "https://bakeitwithlove.com/wp-content/uploads/2022/01/Spaghetti-Bolognese-h.jpg",
+
+        "chefId": "5555"
+      },
+      {
+        "recipeId": 777777,
+        "recipeName": "Chana Masala",
+        "ingredients": "1 can chickpeas, drained and rinsed, 1 onion, diced, 2 cloves garlic, minced, 1 tsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 can diced tomatoes, 1/4 cup water, salt and pepper to taste",
+        "instructions": "In a large pan, sauté onion, garlic, and ginger until soft. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add chickpeas, diced tomatoes, and water. Simmer for 10-15 minutes. Add salt and pepper to taste.",
+        "imageURL": "https://holycowvegan.net/wp-content/uploads/2021/01/best-chana-masala-recipe-homemade-delicious.jpg",
+        "chefId": "4444"
+    },
+    {
+      "recipeId": 888888,
+      "recipeName": "Chicken Tikka Masala",
+      "ingredients": "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces, 1/2 cup plain yogurt, 2 tbsp lemon juice, 1 tbsp grated ginger, 2 cloves garlic, minced, 1 tsp ground cumin, 1 tsp paprika, 1/2 tsp ground cinnamon, 1/2 tsp cayenne pepper, salt and pepper to taste, 1 tbsp oil, 1 onion, diced, 1 can tomato sauce, 1 cup heavy cream",
+      "instructions": "In a large bowl, combine chicken, yogurt, lemon juice, ginger, garlic, cumin, paprika, cinnamon, cayenne, salt, and pepper. Marinate for at least 30 minutes. In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add chicken and marinade. Cook until chicken is browned on all sides. Add tomato sauce and cream. Simmer for 10-15 minutes.",
+      "imageURL": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-chicken-tikka-masala-1-4.jpg",
+      "chefId": "8888"
+  },
+  {
+    "recipeId": 999999,
+    "recipeName": "Aloo Gobi",
+    "ingredients": "2 tbsp oil, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 2 potatoes, peeled and diced, 1 head cauliflower, chopped, 1/4 cup water, salt and pepper to taste",
+    "instructions": "In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add garlic and ginger and cook for 1-2 minutes. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add potatoes, cauliflower, and water. Cover and simmer for 15-20 minutes, stirring occasionally. Add salt and pepper to taste.",
+    "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg",
+    "chefId": "5555"
+  },
+  {
+    "recipeId": 101010,
+    "recipeName": "Palak Paneer",
+    "ingredients": "1 lb paneer, cut into bite-sized pieces, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 2 tbsp oil, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 lb spinach, washed and chopped, 1/2 cup water, salt and pepper to taste",
+    "instructions": "In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add garlic and ginger and cook for 1-2 minutes. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add spinach and water. Cover and simmer for 5-10 minutes, stirring occasionally, until spinach is wilted. Use an immersion blender or transfer to a blender and puree until smooth. Return to pan and add paneer. Simmer for 5-10 minutes. Add salt and pepper to taste.",
+    "imageURL": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+    "chefId": "7777"
+    }
+   
+      
+]
