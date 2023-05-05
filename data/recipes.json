@@ -1,80 +1,95 @@
 [
-    {
-      "recipeId": 111111,
-      "recipeName": "Butter Chicken",
-      "cuisine": "Indian",
-      "ingredients": "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces, 1 cup plain Greek yogurt, 1/2 cup unsalted butter, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 1 tbsp garam masala, 1 tsp cumin, 1 tsp turmeric, 1/2 tsp cayenne pepper, 1 cup tomato sauce, 1/2 cup heavy cream, salt and pepper to taste.",
-  
-      "instructions": "In a large bowl, mix the chicken and Greek yogurt together until the chicken is fully coated. Let it marinate in the refrigerator for at least 1 hour. In a large skillet over medium-high heat, melt the butter. Add the onion and cook until translucent, about 5 minutes. Add the garlic and ginger to the skillet and cook for another minute. Add the garam masala, cumin, turmeric, and cayenne pepper to the skillet and cook for another minute. Add the chicken and yogurt mixture to the skillet and cook until the chicken is cooked through, about 10 minutes. Add the tomato sauce and heavy cream to the skillet and stir until fully combined. Season with salt and pepper to taste. Serve hot with rice and naan.",
-
-      "imageURL": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
-
-      "chefId": "1111"
-    },
-
-   {
+  {
+    "recipeId": 111111,
+    "recipeName": "Butter Chicken",
+    "cuisine": "Indian",
+    "ingredients": "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces, 1 cup plain Greek yogurt, 1/2 cup unsalted butter, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 1 tbsp garam masala, 1 tsp cumin, 1 tsp turmeric, 1/2 tsp cayenne pepper, 1 cup tomato sauce, 1/2 cup heavy cream, salt and pepper to taste.",
+    "instructions": "In a large bowl, mix the chicken and Greek yogurt together until the chicken is fully coated. Let it marinate in the refrigerator for at least 1 hour. In a large skillet over medium-high heat, melt the butter. Add the onion and cook until translucent, about 5 minutes. Add the garlic and ginger to the skillet and cook for another minute. Add the garam masala, cumin, turmeric, and cayenne pepper to the skillet and cook for another minute. Add the chicken and yogurt mixture to the skillet and cook until the chicken is cooked through, about 10 minutes. Add the tomato sauce and heavy cream to the skillet and stir until fully combined. Season with salt and pepper to taste. Serve hot with rice and naan.",
+    "imageURL": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+    "chefId": "1111",
+    "rating": "4.7"
+  },
+  {
     "recipeId": 222222,
-      "recipeName": "Samosas",
-      "cuisine": "Indian",
-      "ingredients": "2 cups all-purpose flour, 1/2 tsp salt, 1/2 tsp baking powder, 1/2 cup vegetable oil, 1/4 cup water, 1 onion, chopped, 2 cloves garlic, minced, 1 tsp grated ginger, 1/2 tsp cumin, 1/2 tsp coriander, 1/4 tsp turmeric, 1/4 tsp cayenne pepper, 2 cups mashed potatoes, 1/2 cup frozen peas, Vegetable oil for frying",
-      "instructions": "In a large mixing bowl, whisk together the flour, salt, and baking powder. Add the vegetable oil and mix until the mixture is crumbly. Add the water to the mixture and knead the dough until it becomes smooth. Cover with a damp cloth and let it rest for 30 minutes. In a large skillet over medium-high heat, sauté the onion, garlic, and ginger until the onion is translucent, about 5 minutes.Add the cumin, coriander, turmeric, and cayenne pepper to the skillet and cook for another minute.Add the mashed potatoes and peas to the skillet and stir until fully combined. Season with salt to taste.Divide the dough into 12 equal portions and roll each one into a circle. Cut the circle in half.  Form each half into a cone and fill it with the potato and pea mixture. Seal the edges with water.Heat the vegetable oil in a large pot over medium-high heat. Fry the samosas in the oil until they are golden brown and crispy.",
-      
-      "imageURL": "https://www.cookwithnabeela.com/wp-content/uploads/2023/03/AlooSamosa2.webp",
-
-      "chefId": "1111"
-    },
-    {
-        "recipeId": 333333,
-        "recipeName": "Chocolate Chip Cookies",
-        "ingredients": "2 1/4 cups all-purpose flour, 1 tsp baking soda, 1 tsp salt, 1 cup unsalted butter, room temperature, 3/4 cup white sugar, 3/4 cup brown sugar, 2 large eggs, 2 tsp vanilla extract, 2 cups semisweet chocolate chips",
-        "instructions": "Mix ingredients together, form dough into balls, and bake at 375°F for 10-12 minutes.",
-        "imageURL": "https://eadn-wc04-6301438.nxedge.io/cdn/media/mageplaza/blog/post/c/h/choc_chip_cookies.jpg",
-        "chefId": "2222"
-      },
-      {
-        "recipeId": 444444,
-        "recipeName": "Caesar Salad",
-        "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
-        "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
-        "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
-        "chefId": "3333"
-      },
-      {
-        "recipeId": 555555,
-        "recipeName": "Paneer Tikka Masala",
-        "ingredients":"1 cup paneer, cubed, 1 onion, diced, 1 green bell pepper, diced, 1 cup tomato puree, 1/2 cup heavy cream, 1 tsp ginger paste, 1 tsp garlic paste, 2 tsp garam masala, 1 tsp turmeric powder, 1 tsp cumin powder, Salt to taste, 2 tbsp oil",
-        "instructions": 
-          "In a large skillet over medium-high heat, add the oil and sauté the onions and green bell peppers until softened. Add the ginger paste and garlic paste to the skillet and cook for another minute. Add the tomato puree, garam masala, turmeric powder, cumin powder, and salt to the skillet. Cook for 5-7 minutes until the mixture thickens. Add the cubed paneer to the skillet and stir gently to coat the paneer with the sauce. Reduce the heat to low and add the heavy cream. Cook for another 5-7 minutes until the paneer is heated through and the sauce has thickened.Garnish with chopped cilantro and serve hot with rice or naan bread.",
-
-        "imageURL": "https://cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg",
-        "chefId": "4444"
-      },
-      {
-        "recipeId": 666666,
-        "recipeName": "Spaghetti Bolognese",
-        "ingredients":"1 lb ground beef, 1 onion, diced, 2 cloves garlic, minced, 1 can crushed tomatoes, 1 tsp dried basil, 1 tsp dried oregano, 1 tsp salt, 1/2 tsp black pepper, 1 lb spaghetti, 2 tbsp olive oil",
-
-        "instructions": "Cook spaghetti according to package instructions. Brown ground beef in olive oil. Add onion and garlic, and cook until onion is translucent. Add crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 20 minutes. Serve over cooked spaghetti.",
-
-        "imageURL": "https://bakeitwithlove.com/wp-content/uploads/2022/01/Spaghetti-Bolognese-h.jpg",
-
-        "chefId": "5555"
-      },
-      {
-        "recipeId": 777777,
-        "recipeName": "Chana Masala",
-        "ingredients": "1 can chickpeas, drained and rinsed, 1 onion, diced, 2 cloves garlic, minced, 1 tsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 can diced tomatoes, 1/4 cup water, salt and pepper to taste",
-        "instructions": "In a large pan, sauté onion, garlic, and ginger until soft. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add chickpeas, diced tomatoes, and water. Simmer for 10-15 minutes. Add salt and pepper to taste.",
-        "imageURL": "https://holycowvegan.net/wp-content/uploads/2021/01/best-chana-masala-recipe-homemade-delicious.jpg",
-        "chefId": "4444"
-    },
-    {
-      "recipeId": 888888,
-      "recipeName": "Chicken Tikka Masala",
-      "ingredients": "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces, 1/2 cup plain yogurt, 2 tbsp lemon juice, 1 tbsp grated ginger, 2 cloves garlic, minced, 1 tsp ground cumin, 1 tsp paprika, 1/2 tsp ground cinnamon, 1/2 tsp cayenne pepper, salt and pepper to taste, 1 tbsp oil, 1 onion, diced, 1 can tomato sauce, 1 cup heavy cream",
-      "instructions": "In a large bowl, combine chicken, yogurt, lemon juice, ginger, garlic, cumin, paprika, cinnamon, cayenne, salt, and pepper. Marinate for at least 30 minutes. In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add chicken and marinade. Cook until chicken is browned on all sides. Add tomato sauce and cream. Simmer for 10-15 minutes.",
-      "imageURL": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-chicken-tikka-masala-1-4.jpg",
-      "chefId": "8888"
+    "recipeName": "Samosas",
+    "cuisine": "Indian",
+    "ingredients": "2 cups all-purpose flour, 1/2 tsp salt, 1/2 tsp baking powder, 1/2 cup vegetable oil, 1/4 cup water, 1 onion, chopped, 2 cloves garlic, minced, 1 tsp grated ginger, 1/2 tsp cumin, 1/2 tsp coriander, 1/4 tsp turmeric, 1/4 tsp cayenne pepper, 2 cups mashed potatoes, 1/2 cup frozen peas, Vegetable oil for frying",
+    "instructions": "In a large mixing bowl, whisk together the flour, salt, and baking powder. Add the vegetable oil and mix until the mixture is crumbly. Add the water to the mixture and knead the dough until it becomes smooth. Cover with a damp cloth and let it rest for 30 minutes. In a large skillet over medium-high heat, sauté the onion, garlic, and ginger until the onion is translucent, about 5 minutes.Add the cumin, coriander, turmeric, and cayenne pepper to the skillet and cook for another minute.Add the mashed potatoes and peas to the skillet and stir until fully combined. Season with salt to taste.Divide the dough into 12 equal portions and roll each one into a circle. Cut the circle in half.  Form each half into a cone and fill it with the potato and pea mixture. Seal the edges with water.Heat the vegetable oil in a large pot over medium-high heat. Fry the samosas in the oil until they are golden brown and crispy.",
+    "imageURL": "https://www.cookwithnabeela.com/wp-content/uploads/2023/03/AlooSamosa2.webp",
+    "chefId": "1111",
+    "rating": "5"
+  },
+  {
+    "recipeId": 333333,
+    "recipeName": "Chocolate Chip Cookies",
+    "ingredients": "2 1/4 cups all-purpose flour, 1 tsp baking soda, 1 tsp salt, 1 cup unsalted butter, room temperature, 3/4 cup white sugar, 3/4 cup brown sugar, 2 large eggs, 2 tsp vanilla extract, 2 cups semisweet chocolate chips",
+    "instructions": "Mix ingredients together, form dough into balls, and bake at 375°F for 10-12 minutes.",
+    "imageURL": "https://eadn-wc04-6301438.nxedge.io/cdn/media/mageplaza/blog/post/c/h/choc_chip_cookies.jpg",
+    "chefId": "2222",
+    "rating": "4.5"
+  },
+  {
+    "recipeId": 444444,
+    "recipeName": "Caesar Salad",
+    "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
+    "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
+    "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
+    "chefId": "3333",
+    "rating": "4.8"
+  },
+  {
+    "recipeId": 555555,
+    "recipeName": "Paneer Tikka Masala",
+    "ingredients": "1 cup paneer, cubed, 1 onion, diced, 1 green bell pepper, diced, 1 cup tomato puree, 1/2 cup heavy cream, 1 tsp ginger paste, 1 tsp garlic paste, 2 tsp garam masala, 1 tsp turmeric powder, 1 tsp cumin powder, Salt to taste, 2 tbsp oil",
+    "instructions": "In a large skillet over medium-high heat, add the oil and sauté the onions and green bell peppers until softened. Add the ginger paste and garlic paste to the skillet and cook for another minute. Add the tomato puree, garam masala, turmeric powder, cumin powder, and salt to the skillet. Cook for 5-7 minutes until the mixture thickens. Add the cubed paneer to the skillet and stir gently to coat the paneer with the sauce. Reduce the heat to low and add the heavy cream. Cook for another 5-7 minutes until the paneer is heated through and the sauce has thickened.Garnish with chopped cilantro and serve hot with rice or naan bread.",
+    "imageURL": "https://cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg",
+    "chefId": "4444",
+    "rating": "4.3"
+  },
+  {
+    "recipeId": 555555,
+    "recipeName": "Paneer Tikka Masala",
+    "ingredients": "1 cup paneer, cubed, 1 onion, diced, 1 green bell pepper, diced, 1 cup tomato puree, 1/2 cup heavy cream, 1 tsp ginger paste, 1 tsp garlic paste, 2 tsp garam masala, 1 tsp turmeric powder, 1 tsp cumin powder, Salt to taste, 2 tbsp oil",
+    "instructions": "In a large skillet over medium-high heat, add the oil and sauté the onions and green bell peppers until softened. Add the ginger paste and garlic paste to the skillet and cook for another minute. Add the tomato puree, garam masala, turmeric powder, cumin powder, and salt to the skillet. Cook for 5-7 minutes until the mixture thickens. Add the cubed paneer to the skillet and stir gently to coat the paneer with the sauce. Reduce the heat to low and add the heavy cream. Cook for another 5-7 minutes until the paneer is heated through and the sauce has thickened.Garnish with chopped cilantro and serve hot with rice or naan bread.",
+    "imageURL": "https://cookingfromheart.com/wp-content/uploads/2017/03/Paneer-Tikka-Masala-4.jpg",
+    "chefId": "1111",
+    "rating": "5"
+  },
+  {
+    "recipeId": 666666,
+    "recipeName": "Spaghetti Bolognese",
+    "ingredients": "1 lb ground beef, 1 onion, diced, 2 cloves garlic, minced, 1 can crushed tomatoes, 1 tsp dried basil, 1 tsp dried oregano, 1 tsp salt, 1/2 tsp black pepper, 1 lb spaghetti, 2 tbsp olive oil",
+    "instructions": "Cook spaghetti according to package instructions. Brown ground beef in olive oil. Add onion and garlic, and cook until onion is translucent. Add crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 20 minutes. Serve over cooked spaghetti.",
+    "imageURL": "https://bakeitwithlove.com/wp-content/uploads/2022/01/Spaghetti-Bolognese-h.jpg",
+    "chefId": "5555",
+    "rating": "4.5"
+  },
+  {
+    "recipeId": 777777,
+    "recipeName": "Chana Masala",
+    "ingredients": "1 can chickpeas, drained and rinsed, 1 onion, diced, 2 cloves garlic, minced, 1 tsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 can diced tomatoes, 1/4 cup water, salt and pepper to taste",
+    "instructions": "In a large pan, sauté onion, garlic, and ginger until soft. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add chickpeas, diced tomatoes, and water. Simmer for 10-15 minutes. Add salt and pepper to taste.",
+    "imageURL": "https://holycowvegan.net/wp-content/uploads/2021/01/best-chana-masala-recipe-homemade-delicious.jpg",
+    "chefId": "4444",
+    "rating": "5"
+  },
+  {
+    "recipeId": 888888,
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces, 1/2 cup plain yogurt, 2 tbsp lemon juice, 1 tbsp grated ginger, 2 cloves garlic, minced, 1 tsp ground cumin, 1 tsp paprika, 1/2 tsp ground cinnamon, 1/2 tsp cayenne pepper, salt and pepper to taste, 1 tbsp oil, 1 onion, diced, 1 can tomato sauce, 1 cup heavy cream",
+    "instructions": "In a large bowl, combine chicken, yogurt, lemon juice, ginger, garlic, cumin, paprika, cinnamon, cayenne, salt, and pepper. Marinate for at least 30 minutes. In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add chicken and marinade. Cook until chicken is browned on all sides. Add tomato sauce and cream. Simmer for 10-15 minutes.",
+    "imageURL": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-chicken-tikka-masala-1-4.jpg",
+    "chefId": "8888",
+    "rating": "5"
+  },
+  {
+    "recipeId": 888888,
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces, 1/2 cup plain yogurt, 2 tbsp lemon juice, 1 tbsp grated ginger, 2 cloves garlic, minced, 1 tsp ground cumin, 1 tsp paprika, 1/2 tsp ground cinnamon, 1/2 tsp cayenne pepper, salt and pepper to taste, 1 tbsp oil, 1 onion, diced, 1 can tomato sauce, 1 cup heavy cream",
+    "instructions": "In a large bowl, combine chicken, yogurt, lemon juice, ginger, garlic, cumin, paprika, cinnamon, cayenne, salt, and pepper. Marinate for at least 30 minutes. In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add chicken and marinade. Cook until chicken is browned on all sides. Add tomato sauce and cream. Simmer for 10-15 minutes.",
+    "imageURL": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-chicken-tikka-masala-1-4.jpg",
+    "chefId": "2222",
+    "rating": "5"
   },
   {
     "recipeId": 999999,
@@ -82,7 +97,8 @@
     "ingredients": "2 tbsp oil, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 2 potatoes, peeled and diced, 1 head cauliflower, chopped, 1/4 cup water, salt and pepper to taste",
     "instructions": "In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add garlic and ginger and cook for 1-2 minutes. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add potatoes, cauliflower, and water. Cover and simmer for 15-20 minutes, stirring occasionally. Add salt and pepper to taste.",
     "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg",
-    "chefId": "5555"
+    "chefId": "5555",
+    "rating": "4.9"
   },
   {
     "recipeId": 101010,
@@ -90,8 +106,116 @@
     "ingredients": "1 lb paneer, cut into bite-sized pieces, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 2 tbsp oil, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 lb spinach, washed and chopped, 1/2 cup water, salt and pepper to taste",
     "instructions": "In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add garlic and ginger and cook for 1-2 minutes. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add spinach and water. Cover and simmer for 5-10 minutes, stirring occasionally, until spinach is wilted. Use an immersion blender or transfer to a blender and puree until smooth. Return to pan and add paneer. Simmer for 5-10 minutes. Add salt and pepper to taste.",
     "imageURL": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
-    "chefId": "7777"
-    }
-   
-      
+    "chefId": "7777",
+    "rating": "5"
+  },
+  {
+    "recipeId": 101010,
+    "recipeName": "Palak Paneer",
+    "ingredients": "1 lb paneer, cut into bite-sized pieces, 1 onion, diced, 2 cloves garlic, minced, 1 tbsp grated ginger, 2 tbsp oil, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 1 lb spinach, washed and chopped, 1/2 cup water, salt and pepper to taste",
+    "instructions": "In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add garlic and ginger and cook for 1-2 minutes. Add cumin, coriander, turmeric, and cayenne and cook for 1-2 minutes. Add spinach and water. Cover and simmer for 5-10 minutes, stirring occasionally, until spinach is wilted. Use an immersion blender or transfer to a blender and puree until smooth. Return to pan and add paneer. Simmer for 5-10 minutes. Add salt and pepper to taste.",
+    "imageURL": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+    "chefId": "2222",
+    "rating": "4.7"
+  },
+  {
+    "recipeId": 444444,
+    "recipeName": "Caesar Salad",
+    "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
+    "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
+    "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
+    "chefId": "4444",
+    "rating": "4.8"
+  },
+  {
+    "recipeId": 666666,
+    "recipeName": "Vegetable Biryani",
+    "ingredients": "1 cup basmati rice, 1 onion, sliced, 1 cup mixed vegetables (carrots, peas, beans, potatoes), 1/4 cup yogurt, 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp garam masala, 1/4 tsp turmeric powder, 2 tbsp oil, salt to taste",
+    "instructions": "Wash rice and soak in water for 20 minutes. Heat oil in a pan and add onions. Sauté until onions turn golden brown. Add vegetables and sauté for 2-3 minutes. Add ginger-garlic paste and sauté for a minute. Add spices and yogurt, and stir well. Add rice and water (2 cups), and bring to a boil. Reduce heat, cover, and let it cook for 15-20 minutes. Serve hot.",
+    "imageURL": "https://media.istockphoto.com/id/179085494/photo/indian-biryani.jpg?s=612x612&w=0&k=20&c=VJAUfiuavFYB7PXwisvUhLqWFJ20-9m087-czUJp9Fs=",
+    "chefId": "8888",
+    "rating": "4.6"
+},
+{
+  "recipeId": 888888,
+  "recipeName": "Masala Dosa",
+  "ingredients": "1 cup dosa rice, 1/4 cup urad dal, 1/4 cup chana dal, 1 tsp fenugreek seeds, salt to taste, oil for cooking dosa, 1 onion, chopped, 1 potato, boiled and mashed, 1/2 tsp mustard seeds, 1/2 tsp cumin seeds, 1 tsp ginger, grated, 1 tsp garlic, minced, 2 green chillies, chopped, 1/4 tsp turmeric powder, 1/4 cup grated coconut, 1 tbsp coriander leaves, chopped",
+  "instructions": "Wash rice and dal separately and soak in water for 5-6 hours. Grind rice and dal together to a smooth batter. Add salt and let it ferment for 8-10 hours. Heat a griddle and spread dosa batter in a thin layer. Cook until golden brown, and flip to cook the other side. For masala, heat oil in a pan and add mustard and cumin seeds. Add onions, ginger, garlic, and green chillies. Sauté until onions turn golden brown. Add turmeric powder, mashed potato, salt, and grated coconut. Cook for 2-3 minutes. Place masala on one side of dosa and fold it. Serve hot with chutney and sambar.",
+  "imageURL": "https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.jpg?s=612x612&w=0&k=20&c=3CI-bw2NhYaX_t0-CZIXIIXsOygFcUaoGSmzbnVB-fU=",
+  "chefId": "5555",
+  "rating": "4.9"
+},
+{
+  "recipeId": 888888,
+  "recipeName": "Masala Dosa",
+  "ingredients": "1 cup dosa rice, 1/4 cup urad dal, 1/4 cup chana dal, 1 tsp fenugreek seeds, salt to taste, oil for cooking dosa, 1 onion, chopped, 1 potato, boiled and mashed, 1/2 tsp mustard seeds, 1/2 tsp cumin seeds, 1 tsp ginger, grated, 1 tsp garlic, minced, 2 green chillies, chopped, 1/4 tsp turmeric powder, 1/4 cup grated coconut, 1 tbsp coriander leaves, chopped",
+  "instructions": "Wash rice and dal separately and soak in water for 5-6 hours. Grind rice and dal together to a smooth batter. Add salt and let it ferment for 8-10 hours. Heat a griddle and spread dosa batter in a thin layer. Cook until golden brown, and flip to cook the other side. For masala, heat oil in a pan and add mustard and cumin seeds. Add onions, ginger, garlic, and green chillies. Sauté until onions turn golden brown. Add turmeric powder, mashed potato, salt, and grated coconut. Cook for 2-3 minutes. Place masala on one side of dosa and fold it. Serve hot with chutney and sambar.",
+  "imageURL": "https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.jpg?s=612x612&w=0&k=20&c=3CI-bw2NhYaX_t0-CZIXIIXsOygFcUaoGSmzbnVB-fU=",
+  "chefId": "6666",
+  "rating": "5"
+},
+{
+  "recipeId": 444444,
+  "recipeName": "Caesar Salad",
+  "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
+  "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
+  "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
+  "chefId": "6666",
+  "rating": "4.7"
+},
+{
+  "recipeId": 777777,
+  "recipeName": "Edible Cookie Dough",
+  "ingredients": "1/2 cup unsalted butter, softened, 1/2 cup light brown sugar, 1/4 cup granulated sugar, 2 tbsp milk, 1 tsp vanilla extract, 1 cup all-purpose flour, 1/4 tsp baking soda, 1/4 tsp salt, 1/2 cup chocolate chips",
+  "instructions": "In a large bowl, beat butter, brown sugar, and granulated sugar until light and fluffy. Add milk and vanilla extract and beat until well combined. In a separate bowl, whisk together flour, baking soda, and salt. Gradually add flour mixture to the butter mixture and mix until well combined. Stir in chocolate chips. Serve immediately or refrigerate for up to 5 days.",
+  "imageURL": "https://preppykitchen.com/wp-content/uploads/2021/07/Edible-cookie-dough-recipe-21.jpg",
+  "chefId": "7777",
+  "rating": "5"
+},
+{
+  "recipeId": 777777,
+  "recipeName": "Edible Cookie Dough",
+  "ingredients": "1/2 cup unsalted butter, softened, 1/2 cup light brown sugar, 1/4 cup granulated sugar, 2 tbsp milk, 1 tsp vanilla extract, 1 cup all-purpose flour, 1/4 tsp baking soda, 1/4 tsp salt, 1/2 cup chocolate chips",
+  "instructions": "In a large bowl, beat butter, brown sugar, and granulated sugar until light and fluffy. Add milk and vanilla extract and beat until well combined. In a separate bowl, whisk together flour, baking soda, and salt. Gradually add flour mixture to the butter mixture and mix until well combined. Stir in chocolate chips. Serve immediately or refrigerate for up to 5 days.",
+  "imageURL": "https://preppykitchen.com/wp-content/uploads/2021/07/Edible-cookie-dough-recipe-21.jpg",
+  "chefId": "6666",
+  "rating": "5"
+},
+{
+  "recipeId": 555555,
+  "recipeName": "Hyderabadi Biryani",
+  "ingredients": "For the rice: 2 cups basmati rice, 4 cups water, 1 tsp salt, 1 bay leaf, 3 green cardamom pods, 3 cloves, 1 cinnamon stick. For the chicken: 1 kg chicken, cut into pieces, 1 cup yogurt, 2 tbsp ginger-garlic paste, 2 green chillies, chopped, 1 tsp red chilli powder, 1 tsp turmeric powder, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp garam masala, salt to taste, 2 onions, sliced, 1/2 cup oil, 2 tbsp ghee, 1/2 cup chopped coriander leaves, 1/2 cup chopped mint leaves, 1/2 cup fried onions, 1/4 cup milk, a pinch of saffron",
+  "instructions": "For the rice, wash the rice and soak in water for 30 minutes. In a pot, bring 4 cups of water to a boil and add salt, bay leaf, green cardamom, cloves, and cinnamon stick. Drain the rice and add it to the pot. Cook until the rice is 70% done. Drain and keep aside. For the chicken, marinate the chicken with yogurt, ginger-garlic paste, green chillies, red chilli powder, turmeric powder, cumin powder, coriander powder, garam masala, and salt. Keep it aside for 1 hour. In a large pan, heat oil and ghee. Add sliced onions and fry until golden brown. Add marinated chicken and cook until tender. Layer half of the rice in a deep pot. Add the cooked chicken on top. Sprinkle coriander leaves, mint leaves, and fried onions on top of the chicken. Layer the remaining rice on top. Mix milk and saffron and pour over the rice. Cover the pot and cook on low heat for 20-25 minutes. Serve hot with raita and salad.",
+  "imageURL": "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg",
+  "chefId": "3333",
+  "rating": "4.7"
+},
+{
+  "recipeId": 555555,
+  "recipeName": "Hyderabadi Biryani",
+  "ingredients": "For the rice: 2 cups basmati rice, 4 cups water, 1 tsp salt, 1 bay leaf, 3 green cardamom pods, 3 cloves, 1 cinnamon stick. For the chicken: 1 kg chicken, cut into pieces, 1 cup yogurt, 2 tbsp ginger-garlic paste, 2 green chillies, chopped, 1 tsp red chilli powder, 1 tsp turmeric powder, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp garam masala, salt to taste, 2 onions, sliced, 1/2 cup oil, 2 tbsp ghee, 1/2 cup chopped coriander leaves, 1/2 cup chopped mint leaves, 1/2 cup fried onions, 1/4 cup milk, a pinch of saffron",
+  "instructions": "For the rice, wash the rice and soak in water for 30 minutes. In a pot, bring 4 cups of water to a boil and add salt, bay leaf, green cardamom, cloves, and cinnamon stick. Drain the rice and add it to the pot. Cook until the rice is 70% done. Drain and keep aside. For the chicken, marinate the chicken with yogurt, ginger-garlic paste, green chillies, red chilli powder, turmeric powder, cumin powder, coriander powder, garam masala, and salt. Keep it aside for 1 hour. In a large pan, heat oil and ghee. Add sliced onions and fry until golden brown. Add marinated chicken and cook until tender. Layer half of the rice in a deep pot. Add the cooked chicken on top. Sprinkle coriander leaves, mint leaves, and fried onions on top of the chicken. Layer the remaining rice on top. Mix milk and saffron and pour over the rice. Cover the pot and cook on low heat for 20-25 minutes. Serve hot with raita and salad.",
+  "imageURL": "https://vismaifood.com/storage/app/uploads/public/e12/7b7/127/thumb__700_0_0_0_auto.jpg",
+  "chefId": "7777",
+  "rating": "5"
+},
+{
+  "recipeId": 444444,
+  "recipeName": "Caesar Salad",
+  "ingredients": "1 head romaine lettuce, chopped, 1/4 cup grated parmesan cheese, 1/4 cup croutons, 2 tbsp olive oil, 1 clove garlic, minced, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/4 tsp salt, 1/4 tsp black pepper",
+  "instructions": "Whisk olive oil, garlic, mustard, lemon juice, salt, and pepper together. Toss with lettuce, parmesan cheese, and croutons.",
+  "imageURL": "https://2.bp.blogspot.com/-boLikIePgQo/TcMPSUD8sSI/AAAAAAAAE7Q/8rt_2f8QwPc/w1200-h630-p-k-no-nu/_MG_2546.jpg",
+  "chefId": "8888",
+  "rating": "5"
+},
+{
+  "recipeId": 888888,
+  "recipeName": "Chicken Tikka Masala",
+  "ingredients": "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces, 1/2 cup plain yogurt, 2 tbsp lemon juice, 1 tbsp grated ginger, 2 cloves garlic, minced, 1 tsp ground cumin, 1 tsp paprika, 1/2 tsp ground cinnamon, 1/2 tsp cayenne pepper, salt and pepper to taste, 1 tbsp oil, 1 onion, diced, 1 can tomato sauce, 1 cup heavy cream",
+  "instructions": "In a large bowl, combine chicken, yogurt, lemon juice, ginger, garlic, cumin, paprika, cinnamon, cayenne, salt, and pepper. Marinate for at least 30 minutes. In a large pan, heat oil over medium-high heat. Add onion and cook until soft. Add chicken and marinade. Cook until chicken is browned on all sides. Add tomato sauce and cream. Simmer for 10-15 minutes.",
+  "imageURL": "https://www.jocooks.com/wp-content/uploads/2019/06/instant-pot-chicken-tikka-masala-1-4.jpg",
+  "chefId": "3333",
+  "rating": "4.8"
+}
+
 ]

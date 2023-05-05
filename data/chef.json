@@ -6,7 +6,8 @@
         "numRecipes": 100,
         "likes": 25000,
         "chefPicture": "https://fabceleby.in/wp-content/uploads/2023/01/Vikas-Khanna-Net-Worth.jpg",
-        "recipeId": 111111
+        "recipeId": 111111,
+        "bio":"Vikas Khanna is an Indian Chef, Restaurateur, Cookbook Writer, and Filmmaker, born on November 14, 1971, in Amritsar, India. He has won several awards including a Michelin Star in 2011, a James Beard Foundation Award in 2012, and a Padma Shri in 2021. Khanna is known for his notable works like Flavors First, My Great India Cookbook, and Utsav: A Culinary Epic of Indian Festivals."
       },
       {
         "chefId": "2222",
@@ -15,7 +16,8 @@
         "numRecipes": 150,
         "likes": 30000,
         "chefPicture": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg",
-        "recipeId": 222222
+        "recipeId": 222222,
+        "bio":"Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He was born on April 10, 1964, in Ambala, Haryana, India. Kapoor is widely recognized for his contribution to Indian cuisine, and his television show Khana Khazana, which aired for over two decades, made him a household name. He has authored numerous cookbooks and is the recipient of several awards, including the National Award for Best Chef of India in 2017. Kapoor has also been featured in various international shows, including MasterChef Australia and Top Chef Masters. He is the founder of Khana Khazana, a chain of restaurants in India and abroad, and the Sanjeev Kapoor Academy, which offers professional culinary courses."
       },
       {
         "chefId": "3333",
@@ -24,7 +26,8 @@
         "numRecipes": 200,
         "likes": 40000,
         "chefPicture": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
-        "recipeId": 333333
+        "recipeId": 333333,
+        "bio":"Tarla Dalal was an Indian cookbook author and television personality, known for her contributions to vegetarian cuisine. She was born on June 3, 1936, in Pune, India, and began her career as a food writer in the 1960s. She authored over 100 cookbooks in her lifetime and was considered one of the most successful cookbook writers in India. Her popular cooking show, Cook It Up With Tarla Dalal, aired on television for over two decades, making her a household name. She was the recipient of several awards, including the Padma Shri in 2007, for her contribution to Indian cuisine. Dalal passed away on November 6, 2013, but her legacy continues to inspire millions of home cooks across the world."
       },
       {
         "chefId": "4444",
@@ -33,7 +36,8 @@
         "numRecipes": 250,
         "likes": 45000,
         "chefPicture": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/05/madhur_jaffrey_headshot.jpg",
-        "recipeId": 444444
+        "recipeId": 444444,
+        "bio":"Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She was born on August 13, 1933, in Delhi, India. Jaffrey began her career in the arts, working in Indian theatre, radio, and film. In the 1970s, she turned her attention to food writing and authored several cookbooks, including An Invitation to Indian Cooking and Madhur Jaffrey's World Vegetarian. She is also a well-known television personality, having hosted several cooking shows, including Madhur Jaffrey's Indian Cookery and Madhur Jaffrey's Far Eastern Cookery. Jaffrey has received numerous accolades for her work, including a James Beard Foundation Lifetime Achievement Award in 2006, and she was appointed a Commander of the Order of the British Empire (CBE) in 1993."
       },
       {
         "chefId": "5555",
@@ -42,7 +46,8 @@
         "numRecipes": 75,
         "likes": 15000,
         "chefPicture": "https://pbs.twimg.com/profile_images/910694565215997952/RkvEmoPG_400x400.jpg",
-        "recipeId": 555555
+        "recipeId": 555555,
+        "bio":"Vicky Ratnani is an Indian chef, restaurateur, television personality, and cookbook author. He was born in Mumbai, India, and began his culinary career working at the Taj Mahal Palace hotel. Ratnani has worked as a head chef in several leading restaurants, including Aurus in Mumbai and Nido in Delhi. He is also a well-known television personality, having hosted several cooking shows, including Gourmet Central and Vicky Goes Veg. Ratnani has authored two cookbooks, Vicky Goes Veg and The Delish Diaries. He has won several awards for his contributions to the culinary industry, including the Indian Restaurant Congress Award for Best Chef in 2018. Ratnani is known for his innovative approach to cooking, combining global flavors with traditional Indian ingredients."
       },
       {
         "chefId": "6666",
@@ -51,7 +56,8 @@
         "numRecipes": 90,
         "likes": 20000,
         "chefPicture": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
-        "recipeId": 666666
+        "recipeId": 666666,
+        "bio":"Ranveer Brar is an Indian celebrity chef, television personality, and author. He was born on February 8, 1978, in Lucknow, India, and began his culinary journey at the age of 17. Brar has worked in several leading hotels and restaurants, including The Claridges, Delhi, and The Taj Mahal Palace, Mumbai. He is also a well-known television personality, having hosted several cooking shows, including Snack Attack, Breakfast Xpress, and Thank God It's Fryday. Brar has authored two cookbooks, Come Into My Kitchen and Recipes for the Mind, Body, and Soul. He has received numerous awards for his contributions to the culinary industry, including the prestigious Indian TV Academy Award for Best Chef in a Lifestyle/Fashion Show in 2010. Brar is known for his creative approach to cooking, combining traditional Indian ingredients with global flavors."
       },
       {
         "chefId": "7777",
@@ -60,7 +66,8 @@
         "numRecipes": 60,
         "likes": 12000,
         "chefPicture": "https://pbs.twimg.com/profile_images/1338865236783157255/TIUN0sa-_400x400.jpg",
-        "recipeId": 777777
+        "recipeId": 777777,
+        "bio":"Shipra Khanna is an Indian chef, television personality, and cookbook author. She was born on November 17, 1971, in Shimla, India, and began her culinary journey at the age of nine. Khanna is a winner of the popular cooking reality show MasterChef India in season 2. She has worked as a head chef in several leading restaurants, including The HHI, Kolkata, and Café Ludus, Delhi. Khanna is also a well-known television personality, having hosted several cooking shows, including Kitchen Ke Superstars and Pure Sin. She has authored two cookbooks, The Spice Route and Sinfully Yours. Khanna has received numerous awards for her contributions to the culinary industry, including the prestigious Indian Television Academy Award for Best Chef in a Lifestyle/Fashion Show in 2013. She is known for her innovative approach to cooking, combining traditional Indian flavors with modern techniques."
       },
       {
         "chefId": "8888",
@@ -69,7 +76,8 @@
         "numRecipes": 120,
         "likes": 28000,
         "chefPicture": "https://www.simplylifeindia.com/uploads/8/1/1/5/8115412/4598131_orig.jpg",
-        "recipeId": 888888
+        "recipeId": 888888,
+        "bio":"Kunal Kapur is an Indian chef, restaurateur, television personality, and cookbook author. He was born on September 18, 1979, in New Delhi, India, and began his culinary journey at the age of 17. Kapur has worked as a head chef in several leading restaurants, including The Leela Kempinski, Delhi, and Diya at The Leela, Mumbai. He is also a well-known television personality, having hosted several cooking shows, including MasterChef India and My Yellow Table. Kapur has authored three cookbooks, A Chef in Every Home, My Yellow Table, and The Spice Route. He has received numerous awards for his contributions to the culinary industry, including the prestigious Indian Television Academy Award for Best Chef in a Lifestyle/Fashion Show in 2015. Kapur is known for his innovative approach to cooking, combining traditional Indian flavors with global techniques."
       }
     ]
   
